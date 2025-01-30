@@ -1,23 +1,23 @@
 .profile {
-    display: inline-block;
-    padding: 0px 60px;
-    background-color: aquamarine;
-    font-size: 20px;
+  display: inline-block;
+  padding: 30px 30px;
+  background-color: rgb(250, 250, 250);
+  font-size: 20px;
 }
 
 .biography {
-    display: inline-block;
-    border: 50px solid red;
-    background-color: cadetblue;
-    padding: 1em;
-    font-size: 5px;
+  display: inline-block;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: cadetblue;
+  padding: 1em;
+  font-size: 18px;
 }
 
 .footer-3-wide {
-    display: inline-block;
-    border: 5px solid black;
-    background-color: yellow;
-    padding: 1em;
-    font-size: 50px;
-    font-weight: 600;
+  display: inline-block;
+  border: 5px solid black;
+  background-color: rgb(255, 0, 221);
+  padding: 1em;
+  font-size: 25px;
+  font-weight: 600;
 }
